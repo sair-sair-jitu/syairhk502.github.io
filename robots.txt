@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://syairhk502.github.io/sitemap.xml
